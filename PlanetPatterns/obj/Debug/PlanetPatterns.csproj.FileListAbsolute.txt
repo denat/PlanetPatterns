@@ -1,0 +1,6 @@
+D:\Projects\Phaser\PlanetPatterns\PlanetPatterns\bin\PlanetPatterns.dll.config
+D:\Projects\Phaser\PlanetPatterns\PlanetPatterns\bin\PlanetPatterns.dll
+D:\Projects\Phaser\PlanetPatterns\PlanetPatterns\bin\PlanetPatterns.pdb
+D:\Projects\Phaser\PlanetPatterns\PlanetPatterns\obj\Debug\PlanetPatterns.dll
+D:\Projects\Phaser\PlanetPatterns\PlanetPatterns\obj\Debug\PlanetPatterns.pdb
+D:\Projects\Phaser\PlanetPatterns\PlanetPatterns\obj\Debug\PlanetPatterns.csprojResolveAssemblyReference.cache
